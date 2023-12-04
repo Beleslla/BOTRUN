@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 93f69058e1bfb0945b1753889d3cf811
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseScreen: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  - countdownScreen: {instanceID: 0}
+  - cuentaAtras: {instanceID: 0}
+  - negativeClickSound: {fileID: 8300000, guid: e44244641dd8469428fe8f01404c03a4, type: 3}
+  - positiveClickSound: {fileID: 8300000, guid: 4eff4449f5b27664294dfffd392cb76d, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 058ddc77f6508604d81d04fdccc91fda, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
