@@ -20,6 +20,7 @@ public class CambiadorDeImagen : MonoBehaviour
         else
         {
             Debug.LogError("Asigna al menos una imagen y un objeto Image en el Inspector.");
+            Debug.Log("Git");
         }
     }
 
